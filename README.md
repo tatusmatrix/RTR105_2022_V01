@@ -45,3 +45,4 @@ Piemērs ar emoji :cookie:
 
 
 [^1]: J.Ziemelis. Ievads algoritmu valodā C. Rīga, RTU Elektronikas un telekomunikāciju fakultāte, 2006, 118 lpp.
+
