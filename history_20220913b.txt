@@ -1,0 +1,61 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  uname
+    4  man uname
+    5  uname -a
+    6  uname --all
+    7  echo $0
+    8  whoami
+    9  who
+   10  pwd
+   11  ls -l
+   12  ps
+   13  ps -aux
+   14  ps -aux | grep firifox
+   15  ps -aux | grep firefox
+   16  kill 2941
+   17  ps -aux | grep firefox
+   18  ps -aux | grep firifox
+   19  ps -aux | grep firefox
+   20  kill 3267
+   21  ps -aux
+   22  kill 2804
+   23  history 
+   24  history > history_20220913a.txt
+   25  ls -l
+   26  ls -lt
+   27  cat history_20220913a.txt 
+   28  history > history_20220913a.txt
+   29  ls -lt
+   30  cat history_20220913a.txt 
+   31  git clone https://github.com/tatusmatrix/RTR105_2022_V01
+   32  ls -lt
+   33  pwd
+   34  git clone https://github.com/tatusmatrix/RTR105_2022_V01
+   35  git clone https://github.com/tatusmatrix/RTR105_2022_V01 RTR105
+   36  ls -lt
+   37  rmdir RTR105
+   38  man rmdir
+   39  man rm
+   40  rm RTR105
+   41  rm -r RTR105
+   42  rm -rf RTR105
+   43  ls -lt
+   44  rm -rf RTR105_2022_V01/
+   45  ls -lt
+   46  git clone https://github.com/tatusmatrix/RTR105_2022_V01
+   47  ls -lt
+   48  mv ~/history_20220913a.txt /home/user/RTR105_2022_V01/
+   49  ls -lt
+   50  cd RTR105_2022_V01/
+   51  ls -lt
+   52  pwd
+   53  git add .
+   57  history 
+   59  git config --global user.name ...
+   60  git config --global user.email ...
+   61  git commit -m "Class_03a"
+   62  git push origin main
+   63  echo $0
+   64  ls -lt
+   65  history > history_20220913b.txt 
