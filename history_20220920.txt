@@ -1,0 +1,77 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls
+    4  whereis ls
+    5  pwd
+    6  ls -lt /bin/ls
+    7  ls
+    8  ls /bin/ls
+    9  ls -l
+   10  ls -l /bin/ls
+   11  ls -l
+   12  ls -l /bin/ls
+   13  ls -lt /bin/ls
+   14  ls -l
+   15  ls -lt
+   16  ls -l /bin/ls
+   17  cd /bin
+   18  ls
+   19  ls -l
+   20  echo $0
+   21  ls -l
+   22  sh
+   23  echo $0
+   24  pwd
+   25  ls
+   26  ls -l
+   27  man cd
+   28  exit
+   29  echo $0
+   30  sh
+   31  ls
+   32  whereis ls
+   33  pwd
+   34  ls -l /bin/ls
+   35  cd /bin
+   36  pwd
+   37  ls
+   38  ls -l
+   39  ls
+   40  whereis ls
+   41  ls -l ls
+   42  cat ls
+   43  ls
+   44  cd
+   45  pwd
+   46  cd
+   47  pwd
+   48  ls
+   49  whereisls
+   50  whereis ls
+   51  /bin/ls
+   52  whereis ls
+   53  echo $PATH
+   54  whereis ls
+   55  ls
+   56  whereis ls
+   57  ls -l /bin/ls
+   58  ls
+   59  git clone https://github.com/tatusmatrix/RTR105_V01_2022
+   60  git clone https://github.com/tatusmatrix/RTR105_2022_V01
+   61  ls -lt
+   62  pwd
+   63  cd
+   64  ls -lt
+   65  cd RTR105_2022_V01/
+   66  ls -lt
+   67  cd ..
+   68  ls
+   69  cd /
+   70  pwd
+   71  ls
+   72  cd
+   73  cd RTR105_2022_V01/
+   74  pwd
+   75  ls -lt
+   76  history 
+   77  history > history_20220920.txt

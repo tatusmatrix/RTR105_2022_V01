@@ -1,0 +1,6 @@
+#!/bin/bash
+git add . #komanda "uzmanāmo" mapju pievienošanai
+git config --global user.name tatusmatrix
+git config --global user.email Tatjana.Solovjova@rtu.lv
+git commit -m "Class_04a"
+git push origin main
