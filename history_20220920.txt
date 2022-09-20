@@ -75,3 +75,77 @@
    75  ls -lt
    76  history 
    77  history > history_20220920.txt
+   78  ls -lt
+   79  cat history_20220920.txt 
+   80  ls -lt
+   81  nano git-upload
+   82  pwd
+   83  ls -lt
+   84  cat git-upload 
+   85  ls -lt
+   86  git-upload
+   87  pwd
+   88  /home/user/RTR105_2022_V01/git-upload
+   89  ls -lt git-upload 
+   90  chmod 764 git-upload 
+   91  ls -lt git-upload 
+   92  git-upload
+   93  echo $PATH
+   94  pwd
+   95* git-
+   96  echo $PATH
+   97  pwd
+   98  echo dfkskjjks
+   99  echo $0
+  100  ls
+  101  git-git-upload
+  102  git-upload
+  103  pwd
+  104  ls -lt
+  105  echo $PATH
+  106  pwd
+  107  ls -lt
+  108  ./git-upload 
+  109  nano git-upload 
+  110  ./git-upload 
+  111  cd ..
+  112  pwd
+  113  rm -rf RTR105_2022_V01/
+  114  ls -lt
+  115  pwdf
+  116  pwd
+  117  ls -lt
+  118  pwd
+  119  ls -lt
+  120  history | grep git
+  121  history | grep clone
+  122  man grep
+  123  history
+  124  history | grep clone
+  125  git clone https://github.com/tatusmatrix/RTR105_2022_V01
+  126  pwd
+  127  ls -lt
+  128  cd RTR105_2022_V01/
+  129  pwd
+  130  ls -lt
+  131  git clone https://github.com/tatusmatrix/RTR105_2022_V01
+  132  ls -lt
+  133  rm -rf RTR105_2022_V01/
+  134  pwd
+  135  ls -lt
+  136  git-upload
+  137  echo $PATH
+  138  PATH=$PATH
+  139  echo $PATH
+  140  PATH=$PATH:./
+  141  echo $PATH
+  142  history > history_20220920.txt 
+  143  ls -lt
+  144  history 
+  145  history
+  146  cd ..
+  147  cd RTR105_2022_V01/
+  148  pwd
+  149  ls -lta ~/ | grep hist
+  150  history 
+  151  history > history_20220920.txt 
