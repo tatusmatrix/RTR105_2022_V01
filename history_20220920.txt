@@ -26,154 +26,54 @@
    26  ls -l
    27  man cd
    28  exit
-   29  echo $0
-   30  sh
-   31  ls
-   32  whereis ls
-   33  pwd
-   34  ls -l /bin/ls
-   35  cd /bin
-   36  pwd
-   37  ls
-   38  ls -l
-   39  ls
-   40  whereis ls
-   41  ls -l ls
-   42  cat ls
-   43  ls
-   44  cd
-   45  pwd
-   46  cd
-   47  pwd
-   48  ls
-   49  whereisls
-   50  whereis ls
-   51  /bin/ls
-   52  whereis ls
+   29  nano
+   30  exit
+   31  cd RTR105_2022_V01/
+   32  nano git-upload 
+   33  cd
+   34  nano
+   35  nano text.sh
+   36  chromium-browser &
+   37  cd RTR105_2022_V01/
+   38  nano special_variable_test.sh
+   39  ls -lt
+   40  nano special_variable_test.sh
+   41  ls -lt
+   42  chmod 764 special_variable_test.sh 
+   43  ls -lt
+   44  echo $PATH
+   45  git-upload
+   46  history | grep PATH
+   47  echo $PATH
+   48  pwd
+   49  cd ..
+   50  ls -lt
+   51  rm special_variable_test.sh 
+   52  ls -lt
    53  echo $PATH
-   54  whereis ls
-   55  ls
+   54  PATH=$PATH:~
+   55  echo $PATH
    56  whereis ls
-   57  ls -l /bin/ls
-   58  ls
-   59  git clone https://github.com/tatusmatrix/RTR105_V01_2022
-   60  git clone https://github.com/tatusmatrix/RTR105_2022_V01
-   61  ls -lt
-   62  pwd
-   63  cd
-   64  ls -lt
-   65  cd RTR105_2022_V01/
-   66  ls -lt
-   67  cd ..
-   68  ls
-   69  cd /
-   70  pwd
-   71  ls
-   72  cd
-   73  cd RTR105_2022_V01/
-   74  pwd
-   75  ls -lt
-   76  history 
-   77  history > history_20220920.txt
-   78  ls -lt
-   79  cat history_20220920.txt 
-   80  ls -lt
-   81  nano git-upload
-   82  pwd
-   83  ls -lt
-   84  cat git-upload 
-   85  ls -lt
-   86  git-upload
-   87  pwd
-   88  /home/user/RTR105_2022_V01/git-upload
-   89  ls -lt git-upload 
-   90  chmod 764 git-upload 
-   91  ls -lt git-upload 
-   92  git-upload
-   93  echo $PATH
-   94  pwd
-   95* git-
-   96  echo $PATH
-   97  pwd
-   98  echo dfkskjjks
-   99  echo $0
-  100  ls
-  101  git-git-upload
-  102  git-upload
-  103  pwd
-  104  ls -lt
-  105  echo $PATH
-  106  pwd
-  107  ls -lt
-  108  ./git-upload 
-  109  nano git-upload 
-  110  ./git-upload 
-  111  cd ..
-  112  pwd
-  113  rm -rf RTR105_2022_V01/
-  114  ls -lt
-  115  pwdf
-  116  pwd
-  117  ls -lt
-  118  pwd
-  119  ls -lt
-  120  history | grep git
-  121  history | grep clone
-  122  man grep
-  123  history
-  124  history | grep clone
-  125  git clone https://github.com/tatusmatrix/RTR105_2022_V01
-  126  pwd
-  127  ls -lt
-  128  cd RTR105_2022_V01/
-  129  pwd
-  130  ls -lt
-  131  git clone https://github.com/tatusmatrix/RTR105_2022_V01
-  132  ls -lt
-  133  rm -rf RTR105_2022_V01/
-  134  pwd
-  135  ls -lt
-  136  git-upload
-  137  echo $PATH
-  138  PATH=$PATH
-  139  echo $PATH
-  140  PATH=$PATH:./
-  141  echo $PATH
-  142  history > history_20220920.txt 
-  143  ls -lt
-  144  history 
-  145  history
-  146  cd ..
-  147  cd RTR105_2022_V01/
-  148  pwd
-  149  ls -lta ~/ | grep hist
-  150  history 
-  151  history > history_20220920.txt 
-  152  ls -lt
-  153  git-upload
-  154  nano git-upload 
-  155* 
-  156  ls -lt
-  157  nano git-upload 
-  158  nano
-  159  nano git-upload 
-  160  ls -lt
-  161  echo $0
-  162  echo $PATH
-  163  ls -lt
-  164  special_variable_test.sh arg1 arg2
-  165  echo $0
-  166  cp special_variable_test.sh 
-  167  special_variable_test.sh arg1 arg2
-  168  ls -lt
-  169  special_variable_test.sh arg10 arg20
-  170  nano special_variable_test.sh 
-  171  special_variable_test.sh arg10 arg20
-  172  special_variable_test.sh arg100 arg20
-  173  nano special_variable_test.sh 
-  174  special_variable_test.sh arg100 arg20
-  175  echo $1
-  176  ls -lt
-  177  nano git-upload 
-  178  git-upload 05
-  179  history > history_20220920.txt 
+   57  ls -lt /bin
+   58  ls -lt /
+   59  ls -lt / | bin
+   60  ls -lt / | grep bin
+   61  cp RTR105_2022_V01/git-upload /bin/
+   62  whoami
+   63  whereis python
+   64  nano test.py
+   65  ls -lt
+   66  chnod 764 test.py 
+   67  chmod 764 test.py 
+   68  ls -lt
+   69  ./test.py 
+   70  nano test.py
+   71  ls -lt
+   72  cd RTR105_2022_V01/
+   73  ls -lt
+   74  mkdir PYTHON
+   75  mv ../test.py PYTHON/Hello_World_script.py
+   76  ls -lt
+   77  history > history_20220920.txt 
+   78  history 
+   79  history > history_20220920.txt 
