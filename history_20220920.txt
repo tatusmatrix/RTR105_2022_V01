@@ -149,3 +149,31 @@
   149  ls -lta ~/ | grep hist
   150  history 
   151  history > history_20220920.txt 
+  152  ls -lt
+  153  git-upload
+  154  nano git-upload 
+  155* 
+  156  ls -lt
+  157  nano git-upload 
+  158  nano
+  159  nano git-upload 
+  160  ls -lt
+  161  echo $0
+  162  echo $PATH
+  163  ls -lt
+  164  special_variable_test.sh arg1 arg2
+  165  echo $0
+  166  cp special_variable_test.sh 
+  167  special_variable_test.sh arg1 arg2
+  168  ls -lt
+  169  special_variable_test.sh arg10 arg20
+  170  nano special_variable_test.sh 
+  171  special_variable_test.sh arg10 arg20
+  172  special_variable_test.sh arg100 arg20
+  173  nano special_variable_test.sh 
+  174  special_variable_test.sh arg100 arg20
+  175  echo $1
+  176  ls -lt
+  177  nano git-upload 
+  178  git-upload 05
+  179  history > history_20220920.txt 
