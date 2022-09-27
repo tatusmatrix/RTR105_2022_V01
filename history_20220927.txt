@@ -1,0 +1,159 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  git clone https://github.com/tatusmatrix/RTR105_2022_V01
+    5  ls -lt
+    6  ls
+    7  whereis ls
+    8  ls -l /bin/ls
+    9  echo $PATH
+   10  ls
+   11  cat /bin/ls
+   12  pwd
+   13  ls -lt
+   14  cd RTR105_2022_V01/
+   15  ls -lt
+   16  mkdir Class_06
+   17  ls -lt
+   18  cd Class_06/
+   19  pwd
+   20  cat ../special_variable_test.sh 
+   21  pwd
+   22  nano firts.c
+   23  ls -lt
+   24  mv firts.c first.c 
+   25  cat first.c 
+   26  gcc first.c 
+   27  gcc --help
+   28  msn gcc
+   29  man gcc
+   30  ls -lt
+   31  man gcc
+   32  ls -lt
+   33  cat first.c 
+   34  cat a.out 
+   35  cat first.c 
+   36  ls -lt
+   37  a.out
+   38  echo $PATH
+   39  pwd
+   40  ls -lt
+   41  /home/user/RTR105_2022_V01/Class_06/a.out 
+   42  ~/RTR105_2022_V01/Class_06/a.out 
+   43  pwd
+   44  ./a.out 
+   45  pwd
+   46  ls -lt
+   47  pwd
+   48  ./a.out 
+   49  pwd
+   50  ls -lt
+   51  ./a.out 
+   52  ../Class_06/a.out 
+   53  ls -la
+   54  tree
+   55  cd ..
+   56  tree
+   57  pwd
+   58  tree
+   59  pwd
+   60  cd Class_06/
+   61  ls -lt
+   62  nano first.c 
+   63  pwd
+   64  ls -lt
+   65  gcc first.c 
+   66  ls -lt
+   67  nano first.c 
+   68  ls -lt
+   69  gcc first.c 
+   70  ls -lt
+   71  nano first.c 
+   72  cat first.c 
+   73  gcc first.c 
+   74  echo $?
+   75  a.out
+   76  echo $?
+   77  lss 
+   78  echo $?
+   79  cp a.out /bin/
+   80  echo $?
+   81  ./a.out 
+   82  echo $?
+   83  gcc first.c 
+   84  nano first.c 
+   85  ls -lt
+   86  gcc first.c 
+   87  ls -lt
+   88  ./a.out 
+   89  /home/user/RTR105_2022_V01/Class_06/a.out 
+   90  cat a.out 
+   91  ./a.out 
+   92  ls -lt
+   93  cat first.c 
+   94  gcc first.c 
+   95  ls -lt
+   96  cat a.out 
+   97  nano first.c 
+   98  ls -lt
+   99  gcc first.c 
+  100  ls -lt
+  101  ./a.out 
+  102  echo $?
+  103  nano first.c 
+  104  gcc first.c 
+  105  ./a.out 
+  106  echo $?
+  107  nano first.c 
+  108  ls -lt
+  109  gcc first.c 
+  110  ls -lt
+  111  gcc first.c 
+  112  ls -lt
+  113  gcc first.c 
+  114  ls -lt
+  115  gcc first.c -o first.out
+  116  ls -lt
+  117  gcc --help
+  118  man gcc
+  119  ls -lt
+  120  gcc first.c -o first.out
+  121  ls -lt
+  122  mv first.out first_V1.out 
+  123  gcc first.c -o first.out
+  124  ls -lt
+  125  cd ..
+  126  pwd
+  127  ls -lt
+  128  tree
+  129  pwd
+  130  ls -lta
+  131  nano .gitignore
+  132  ls -lt
+  133  ls -lta
+  134  cd Class_06/
+  135  ls -lt
+  136  gcc first.c -S -o first.out
+  137  ls -lt
+  138  gcc first.c -S -save-temps -o first.out
+  139  ls -lt
+  140  cat first.c 
+  141  cat first.i
+  142  gcc first.c -save-temps -o first.out
+  143  ls -lt
+  144  gcc first.c -save-temps -o first.out
+  145  ls -lt
+  146  cat first.c
+  147  cat first.i
+  148  cat first.s 
+  149  cat first.o
+  150  ls -lt
+  151  cat first.o
+  152  ls -lt
+  153  cat first.c 
+  154  hexdump -C first.c 
+  155  cd ..
+  156  pwd
+  157  ls -lta
+  158  ./git-upload 06
+  159  history > history_20220927.txt 
