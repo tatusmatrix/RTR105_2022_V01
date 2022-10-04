@@ -1,2 +1,3 @@
 # Ignore compiled executables
 *.out
+*.o
