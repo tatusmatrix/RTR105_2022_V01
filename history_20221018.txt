@@ -1,0 +1,142 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/tatusmatrix/RTR105_2022_V01
+    4  cd RTR105_2022_V01/
+    5  mkdir Class_10
+    6  cd Class_10
+    7  nano operations_tests.c
+    8  gcc operations_tests.c
+    9  nano operations_tests.c
+   10  ls -lt
+   11  gcc operations_tests.c
+   12  nano operations_tests.c
+   13  gcc operations_tests.c
+   14  ./a.out 
+   15  nano operations_tests.c
+   16  gcc operations_tests.c
+   17  ./a.out 
+   18  nano operations_tests.c
+   19  gcc operations_tests.c
+   20  nano operations_tests.c
+   21  gcc operations_tests.c
+   22  ./a.out 
+   23  man echo
+   24  nano operations_tests.c
+   25  gcc operations_tests.c
+   26  ./a.out 
+   27  nano operations_tests.c
+   28  gcc operations_tests.c
+   29  nano operations_tests.c
+   30  gcc operations_tests.c
+   31  ./a.out 
+   32  nano operations_tests.c
+   33  ./a.out 
+   34  nano operations_tests.c
+   35  gcc operations_tests.c
+   36  nano operations_tests.c
+   37  gcc operations_tests.c
+   38  ./a.out 
+   39  nano operations_tests.c
+   40  gcc operations_tests.c
+   41  ./a.out 
+   42  nano operations_tests.c
+   43  gcc operations_tests.c
+   44  ./a.out 
+   45  nano operations_tests.c
+   46  gcc operations_tests.c
+   47  nano operations_tests.c
+   48  gcc operations_tests.c
+   49  ./a.out 
+   50  nano operations_tests.c
+   51  gcc operations_tests.c
+   52  ./a.out 
+   53  nano operations_tests.c
+   54  gcc operations_tests.c
+   55  ./a.out 
+   56  nano operations_tests.c
+   57  gcc operations_tests.c
+   58  ./a.out 
+   59  nano operations_tests.c
+   60  gcc operations_tests.c
+   61  ./a.out 
+   62  cd ..
+   63  ./git-upload 10
+   64  cd Class_10/
+   65  ls -lt
+   66  nano operations_tests.c 
+   67  gcc operations_tests.c
+   68  ./a.out 
+   69  nano operations_tests.c 
+   70  gcc operations_tests.c
+   71  ./a.out 
+   72  nano operations_tests.c 
+   73  gcc operations_tests.c
+   74  ./a.out 
+   75  nano operations_tests.c 
+   76  gcc operations_tests.c
+   77  ./a.out 
+   78  nano operations_tests.c 
+   79  gcc operations_tests.c
+   80  ./a.out 
+   81  nano operations_tests.c 
+   82  gcc operations_tests.c
+   83  ./a.out 
+   84  nano operations_tests.c 
+   85  gcc operations_tests.c
+   86  ./a.out 
+   87  nano operations_tests.c 
+   88  gcc operations_tests.c
+   89  ./a.out 
+   90  nano operations_tests.c 
+   91  gcc operations_tests.c
+   92  ./a.out 
+   93  nano operations_tests.c 
+   94  gcc operations_tests.c
+   95  ./a.out 
+   96  nano operations_tests.c 
+   97  gcc operations_tests.c
+   98  ./a.out 
+   99  nano operations_tests.c 
+  100  gcc operations_tests.c
+  101  ./a.out 
+  102  nano operations_tests.c 
+  103  gcc operations_tests.c
+  104  ./a.out 
+  105  nano operations_tests.c 
+  106  ./a.out 
+  107  nano operations_tests.c 
+  108  gcc operations_tests.c
+  109  ./a.out 
+  110  nano operations_tests.c 
+  111  cd ..
+  112  mkdir Class_11
+  113  cd Class_11/
+  114  nano if_tests.c
+  115  echo $?
+  116  nano if_tests.c
+  117  gcc if_tests.c
+  118  ./a.out 
+  119  echo $?
+  120  nano if_tests.c
+  121  gcc if_tests.c
+  122  nano if_tests.c
+  123  gcc if_tests.c
+  124  ./a.out 
+  125  nano if_tests.c
+  126  gcc if_tests.c
+  127  ./a.out 
+  128  nano if_tests.c
+  129  cd ../Class_10
+  130  nano operations_tests.c 
+  131  gcc operations_tests.c 
+  132  ./a.out 
+  133  nano operations_tests.c 
+  134  gcc operations_tests.c 
+  135  ./a.out 
+  136  nano operations_tests.c 
+  137  gcc operations_tests.c 
+  138  ./a.out 
+  139  nano operations_tests.c 
+  140  cd ..
+  141  ls -lt
+  142  history > history_20221018.txt 
