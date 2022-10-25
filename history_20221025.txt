@@ -1,0 +1,85 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/tatusmatrix/RTR105_2022_V01
+    4  cd RTR105_2022_V01/
+    5  ls -lt
+    6  mkdir Class_12
+    7  cd Class_12
+    8  nano loops_tests.c
+    9  gcc loops_tests.c
+   10  ./a.out 
+   11  echo $0
+   12  ./a.out 
+   13  echo $?
+   14  nano loops_tests.c
+   15  gcc loops_tests.c
+   16  ./a.out 
+   17  nano loops_tests.c
+   18  gcc loops_tests.c
+   19  ./a.out 
+   20  nano loops_tests.c
+   21  gcc loops_tests.c
+   22  ./a.out 
+   23  nano loops_tests.c
+   24  gcc loops_tests.c
+   25  ./a.out 
+   26  nano loops_tests.c
+   27  gcc loops_tests.c
+   28  ./a.out 
+   29  nano loops_tests.c
+   30  gcc loops_tests.c
+   31  ./a.out 
+   32  nano loops_tests.c
+   33  ls -lt
+   34  mv loop_while_tests.c 
+   35  mv loops_tests.c loop_while_tests.c 
+   36  ls -lt
+   37  cp loop_while_tests.c loop_for_tests.c 
+   38  ls -lt
+   39  nano loop_for_tests.c 
+   40  gcc loop_for_tests.c 
+   41  ./a.out 
+   42  nano loop_for_tests.c 
+   43  ls -lt
+   44  nano loop_for_tests.c 
+   45  ls -lt
+   46  gcc loop_for_tests.c 
+   47  ls -lt
+   48  rm a.out 
+   49  ls -lt
+   50  gcc loop_for_tests.c 
+   51  ls -lt
+   52  gcc loop_for_tests.c -o for.out
+   53  ls -lt
+   54  cp loop_while_tests.c loop_do_while_tests.c 
+   55  ls -lt
+   56  nano loop_do_while_tests.c 
+   57  gcc loop_do_while_tests.c 
+   58  ./a.out 
+   59  nano loop_do_while_tests.c 
+   60  nano factorial_for.c
+   61  gcco factorial_for.c
+   62  gcc factorial_for.c
+   63  ./a.out 
+   64  nano factorial_for.c
+   65  gcc factorial_for.c
+   66  ./a.out 
+   67  nano factorial_for.c
+   68  ./a.out 
+   69  nano factorial_for.c
+   70  ./a.out 
+   71  pwd
+   72  ls -lt
+   73  man gcc
+   74  ls -lt
+   75  rm *.out
+   76  gcc factorial_for.c -o bez_g.out
+   77  gcc -g factorial_for.c -o ar_g.out
+   78  ls -lt
+   79  gdb ar_g.out 
+   80  gdb bez_g.out 
+   81  gcc -g factorial_for.c -o ar_g.out
+   82  gdb ar_g.out 
+   83  cd ..
+   84  pwd
+   85  history > history_20221025.txt
