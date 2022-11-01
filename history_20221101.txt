@@ -1,0 +1,76 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/tatusmatrix/RTR105_2022_V01
+    4  cd RT
+    5  cd RTR105_2022_V01/
+    6  mkdir Class_13
+    7  cd Class_13
+    8  ls -lt
+    9  nano user_function.c
+   10  gcc user_function.c
+   11  nano user_function.c
+   12  gcc user_function.c
+   13  ls -lt
+   14  ./a.out 
+   15  nano user_function.c
+   16  gcc -g user_function.c
+   17  ls -lt
+   18  gdb a.out 
+   19  nano user_function.c
+   20  gcc -g user_function.c
+   21  nano user_function.c
+   22  gcc -g user_function.c
+   23  nano user_function.c
+   24  gcc -g user_function.c
+   25  nano user_function.c
+   26  gcc -g user_function.c
+   27  ./a.out 
+   28  gcc user_function.c
+   29  ./a.out 
+   30  nano user_function.c
+   31  gcc user_function.c
+   32  ./a.out 
+   33  nano user_function.c
+   34  gcc user_function.c
+   35  ./a.out 
+   36  nano user_function.c
+   37  gcc user_function.c
+   38  nano user_function.c
+   39  gcc user_function.c
+   40  nano user_function.c
+   41  gcc user_function.c
+   42  ./a.out 
+   43  nano user_function.c
+   44  nano main_with_arguments.c
+   45  gcc main_with_arguments.c
+   46  nano main_with_arguments.c
+   47  gcc main_with_arguments.c
+   48  ./a.out 
+   49  cp a.out aaaa.out
+   50  ./aaaa.out 
+   51  ./aaaa.out 1
+   52  ./aaaa.out 1 gfdjfgd
+   53  ./aaaa.out 1 a 2 b c
+   54  echo $?
+   55  ./aaaa.out 1 2
+   56  nano main_with_arguments.c
+   57  gcc main_with_arguments.c
+   58  nano main_with_arguments.c
+   59  ls -ls
+   60  nano user_function.c 
+   61  nano main_with_arguments.c
+   62  gcc main_with_arguments.c
+   63  ./a.out 
+   64  ./a.out 445 65 
+   65  nano main_with_arguments.c
+   66  gcc main_with_arguments.c
+   67  nano main_with_arguments.c
+   68  gcc main_with_arguments.c
+   69  rm aaaa.out 
+   70  gcc main_with_arguments.c
+   71  ./a.out 
+   72  ./a.out 56 96
+   73  ./a.out 1256
+   74  nano main_with_arguments.c
+   75  cd ..
+   76  history > history_20221101.txt
