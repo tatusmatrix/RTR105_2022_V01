@@ -1,0 +1,71 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/tatusmatrix/RTR105_2022_V01
+    4  cd RTR105_2022_V01/
+    5  mkdir Class_15
+    6  cd Class_15
+    7  nano pointers.c
+    8  gcc pointers.c
+    9  nano pointers.c
+   10  gcc pointers.c
+   11  nano pointers.c
+   12  gcc -Wall pointers.c
+   13  ls -lt
+   14  ./a.out 
+   15  cat pointers.c 
+   16  nano pointers.c
+   17  gcc -Wall pointers.c
+   18  nano pointers.c
+   19  gcc -Wall pointers.c
+   20  ./a.out 
+   21  nano pointers.c
+   22  gcc -Wall pointers.c
+   23  ./a.out 
+   24  nano pointers.c
+   25  gcc -Wall pointers.c
+   26  ./a.out 
+   27  nano pointers.c
+   28  gcc -Wall pointers.c
+   29  ./a.out 
+   30  nano pointers.c
+   31  gcc -Wall pointers.c
+   32  ./a.out 
+   33  nano pointers.c
+   34  nano arrays.c
+   35  gcc arrays.c
+   36  nano arrays.c
+   37  gcc arrays.c
+   38  nano arrays.c
+   39  gcc arrays.c
+   40  nano arrays.c
+   41  gcc arrays.c
+   42  ./a.out 
+   43  nano arrays.c
+   44  gcc arrays.c
+   45  ./a.out 
+   46  nano arrays.c
+   47  gcc arrays.c
+   48  ./a.out 
+   49  nano arrays.c
+   50  gcc arrays.c
+   51  nano arrays.c
+   52  gcc arrays.c
+   53  ./a.out 
+   54  nano arrays.c
+   55  gcc arrays.c
+   56  nano arrays.c
+   57  gcc arrays.c
+   58  nano arrays.c
+   59  ./a.out 
+   60  nano arrays.c
+   61  gcc arrays.c
+   62  ./a.out 
+   63  nano arrays.c
+   64  gcc arrays.c
+   65  .
+   66  gcc arrays.c
+   67  ./a.out 
+   68  nano arrays.c
+   69  ls -lt
+   70  cd ..
+   71  history > history_20221108.txt
