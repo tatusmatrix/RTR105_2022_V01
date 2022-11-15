@@ -1,0 +1,92 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  cd Class_16
+    4  wget https://raw.githubusercontent.com/Valers0412/Valers0412/main/Class_16/teikums.c
+    5  ls -lt
+    6  nano teikums.c 
+    7  gcc teikums.c 
+    8  ./a.out 
+    9  nano teikums.c 
+   10  gcc teikums.c 
+   11  ./a.out 
+   12  nano teikums.c 
+   13  gcc teikums.c 
+   14  ./a.out 
+   15  nano teikums.c 
+   16  cd ..
+   17  mkdir Class_17
+   18  cd Class_17
+   19  nano files.c
+   20  gcc files.c
+   21  ./a.out 
+   22  ls -lt
+   23  ./a.out 
+   24  echo $?
+   25  gcc -Wall files.c
+   26  ./a.out 
+   27  ls -lt
+   28  cat teksts.dat 
+   29  ls -lt
+   30  mv files.c files_fprintf.c 
+   31  cp files_fprintf.c files_fscanf.c 
+   32  ls -lt
+   33  nano files_fscanf.c 
+   34  gcc files_fscanf.c 
+   35  nano files_fscanf.c 
+   36  gcc files_fscanf.c 
+   37  ./a.out 
+   38  cat teksts.dat 
+   39  nano files_fscanf.c 
+   40  cp files_fprintf.c files_print_number_text.c
+   41  nano files_print_number_text.c
+   42  gcc files_print_number_text.c
+   43  nano files_print_number_text.c
+   44  gcc files_print_number_text.c
+   45  nano files_print_number_text.c
+   46  gcc files_print_number_text.c
+   47  nano files_print_number_text.c
+   48  gcc files_print_number_text.c
+   49  nano files_print_number_text.c
+   50  gcc files_print_number_text.c
+   51  ./a.out 
+   52  nano files_print_number_text.c
+   53  ls -lt
+   54  cat numbers.dat 
+   55  nano files_print_number_text.c
+   56  ls -lt
+   57  ./a.out 
+   58  cat numbers.dat 
+   59  nano files_print_number_text.c
+   60  ls -lt
+   61  ./a.out 
+   62  gcc files_print_number_text.c
+   63  ./a.out 
+   64  cat numbers.dat 
+   65  ls -lt numbers.dat 
+   66  cp files_print_number_text.c files_print_number_bin.c 
+   67  nano files_print_number_bin.c 
+   68  gcc files_print_number_bin.c 
+   69  ./a.out 
+   70  gcc files_print_number_text.c
+   71  ./a.out 
+   72  ls -lt
+   73  nano files_print_number_bin.c 
+   74  ls -lt
+   75  gcc files_print_number_text.c 
+   76  ./a.out 
+   77  ls -lt
+   78  gcc files_print_number_bin.c 
+   79  ./a.out 
+   80  ls -lt
+   81  cat numbers.bin 
+   82  ls -lt
+   83  nano files_print_number_bin.c 
+   84  gcc files_print_number_bin.c 
+   85  ./a.out 
+   86  ls -lt
+   87  nano files_print_number_bin.c 
+   88  cat numbers.dat 
+   89  cat numbers.bin 
+   90  history 
+   91  cd ..
+   92  history > history_20221115.txt
