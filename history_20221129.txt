@@ -1,0 +1,17 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/tatusmatrix/RTR105_2022_V01
+    4  cd RTR105_2022_V01/
+    5  ls -t
+    6  mkdir Class_18
+    7  mkdir Class_19
+    8  cd Class_19
+    9  gnuplot
+   10  nano example.gp
+   11  gnuplot
+   12  ls -lt
+   13  cd ..
+   14  ls -lt
+   15  history > history_20221129.txt
+   16  mkdir Class_20
+   17  history > history_20221129.txt
